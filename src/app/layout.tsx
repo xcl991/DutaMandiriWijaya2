@@ -22,6 +22,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
   },
+  other: {
+    "facebook-domain-verification": "7kqmem1p6ufovaxn0z1dc95onf4uur",
+  },
   openGraph: {
     title: "PT Duta Mandiri Wijaya",
     description: "Solusi terpadu untuk real estate, plumbing, dan konstruksi sipil",
