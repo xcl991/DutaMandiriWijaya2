@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
   },
   other: {
-    "facebook-domain-verification": "a2600179julm65zm6413eqg03m7v9s",
+    "facebook-domain-verification": "4crasthrcazdzr05as4jb62j5bu89a",
   },
   openGraph: {
     title: "PT Duta Mandiri Wijaya",
